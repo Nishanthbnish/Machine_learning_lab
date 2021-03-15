@@ -1,0 +1,14 @@
+Intention,Resident,TOD,Activity,Mood
+News,Father,M,sitting,neutral
+spiritual,Mother,M,exercise,neutral
+sports,Father,A,laying,happy
+spiritual,Son,M,sitting,sad
+movie,Daughter,M,laying,happy
+sports,Son,E,exercise,happy
+spiritual,Mother,E,exercise,sad
+sports,Daughter,A,sitting,happy
+spiritual,Father,E,exercise,sad
+movie,Mother,E,laying,happy
+News,Son,A,laying,neutral
+spiritual,Daughter,E,exercise,sad
+movie,Father,N,sitting,neutral
